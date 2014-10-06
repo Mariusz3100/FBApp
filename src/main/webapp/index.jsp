@@ -36,7 +36,7 @@
        
 	   <img src="images/nzsTop.png">
 
-       <H1 style="text-align: center">Projekty NZS UKSW</H1><P />
+       <H1 style="text-align: center">Projekty NZS UKSW - jsp</H1><P />
 		
 		<table style="width:100%">
 			  <tr>
