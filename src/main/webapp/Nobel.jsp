@@ -36,7 +36,7 @@
 
 
 	<img src="images/nzsBot.png">
-	<a href="index.html">
+	<a href="index.jsp">
 		<img src="images/nzsLogo.png" style="position:relative; left:10px;top:-100px; margin-bottom: -80px">
 	</a>
 		<img src="images/nobel.png" style="position:relative; right:-55%;top:-110px; margin-bottom: -80px">

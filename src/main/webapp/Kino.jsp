@@ -36,15 +36,15 @@
 
 
 	<img src="images/nzsBot.png">
-	<a href="index.html">
-		<img src="images/nzsLogo.png" style="position:relative; left:10px;top:-100px; margin-bottom: -8%">
+	<a href="index.jsp">
+		<img src="images/nzsLogo.png" style="position:relative; left:10px;top:-100px; margin-bottom: -80px">
 	</a>
-			<img src="images/wampiriada.png" style="position:relative; right:-55%;top:-110px; margin-bottom: -80px">
+		<img src="images/kino.png" style="position:relative; right:-55%;top:-110px; margin-bottom: -80px">
 	
 <table style="width:100%">
 	  		  <tr>
-			    <td><div  style="text-align:center"><img src="images/wampiriada.png"></div></td> 
-			    <td><div  style="text-align:center"><h1>Akcja</h1></div></td>
+			    <td><div  style="text-align:center"><h1>Prawie Kino</h1></div></td> 
+			    <td><div  style="text-align:center"><h1>Nocny Maraton Filmowy</h1></div></td>
 			  </tr>
 			</table>
 		<div  style="text-align:left">

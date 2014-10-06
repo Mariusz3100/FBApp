@@ -33,26 +33,27 @@
                                       .appendChild(e);
            }());
        </script>
-       
-	   <img src="images/nzsTop.png">
 
-       <H1 style="text-align: center">Projekty NZS UKSW</H1><P />
-		
-		<table style="width:100%">
-			  <tr>
-			    <td ><div  style="text-align:center"><a href="Pstryk.html"><img src="images/okfs.png" ></a></div></td>
-			    <td ><div  style="text-align:center"><a href="Nobel.html"><img src="images/nobel.png"></a></div></td>
-			    <td ><div  style="text-align:center"><a href="Drogowskaz.html"><img src="images/drogowskazy.png"></a></div></td>
-			  </tr>
-			  </table>
-			  
-		<table style="width:100%">
+
+	<img src="images/nzsBot.png">
+	<a href="index.jsp">
+		<img src="images/nzsLogo.png" style="position:relative; left:10px;top:-100px; margin-bottom: -8%">
+	</a>
+			<img src="images/wampiriada.png" style="position:relative; right:-55%;top:-110px; margin-bottom: -80px">
+	
+<table style="width:100%">
 	  		  <tr>
-			    <td><div  style="text-align:center"><a href="Wampiriada.html"><img src="images/wampiriada.png"></a></div></td> 
-			    <td><div  style="text-align:center"><a href="Kino.html"><img src="images/kino.png"></a></div></td>
+			    <td><div  style="text-align:center"><img src="images/wampiriada.png"></div></td> 
+			    <td><div  style="text-align:center"><h1>Akcja</h1></div></td>
 			  </tr>
 			</table>
-
+		<div  style="text-align:left">
+			
+		</div>
+		
+		 
+			
+		
        
 	   <img src="images/nzsBot.png">
 

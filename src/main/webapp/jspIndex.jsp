@@ -7,6 +7,6 @@
 <title>New Index</title>
 </head>
 <body>
-<@for(int i=0;i<10;i++)out.println(i)@>
+<%out.println("Heeeey");%>
 </body>
 </html>

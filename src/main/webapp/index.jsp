@@ -33,27 +33,26 @@
                                       .appendChild(e);
            }());
        </script>
+       
+	   <img src="images/nzsTop.png">
 
-
-	<img src="images/nzsBot.png">
-	<a href="index.html">
-		<img src="images/nzsLogo.png" style="position:relative; left:10px;top:-100px; margin-bottom: -80px">
-	</a>
-		<img src="images/kino.png" style="position:relative; right:-55%;top:-110px; margin-bottom: -80px">
-	
-<table style="width:100%">
+       <H1 style="text-align: center">Projekty NZS UKSW</H1><P />
+		
+		<table style="width:100%">
+			  <tr>
+			    <td ><div  style="text-align:center"><a href="Pstryk.jsp"><img src="images/okfs.png" ></a></div></td>
+			    <td ><div  style="text-align:center"><a href="Nobel.jsp"><img src="images/nobel.png"></a></div></td>
+			    <td ><div  style="text-align:center"><a href="Drogowskaz.html"><img src="images/drogowskazy.png"></a></div></td>
+			  </tr>
+			  </table>
+			  
+		<table style="width:100%">
 	  		  <tr>
-			    <td><div  style="text-align:center"><h1>Prawie Kino</h1></div></td> 
-			    <td><div  style="text-align:center"><h1>Nocny Maraton Filmowy</h1></div></td>
+			    <td><div  style="text-align:center"><a href="Wampiriada.jsp"><img src="images/wampiriada.png"></a></div></td> 
+			    <td><div  style="text-align:center"><a href="Kino.jsp"><img src="images/kino.png"></a></div></td>
 			  </tr>
 			</table>
-		<div  style="text-align:left">
-			
-		</div>
-		
-		 
-			
-		
+
        
 	   <img src="images/nzsBot.png">
 
